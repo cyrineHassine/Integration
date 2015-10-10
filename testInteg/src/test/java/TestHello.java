@@ -12,7 +12,7 @@ public class TestHello {
 	@Test
 	public void test() {
 		Hello hello=new Hello();
-		assertEquals(hello.sayHello(),"Hello");
+		assertEquals(hello.sayHello(),"hello");
 		
 	}
 
